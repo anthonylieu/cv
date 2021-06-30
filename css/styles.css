@@ -113,6 +113,10 @@ a:hover {
   padding: 20px 0;
 }
 
+.blush {
+  margin: auto;
+}
+
 .BUTTON_XTS {
    background: #11CDD4;
    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
